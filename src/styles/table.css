@@ -1,0 +1,31 @@
+
+table {
+  margin-top: 1rem;
+    width: 100%;
+  }
+  
+  th {
+    background-color: #C4C5CA;
+    color:black;
+    border-bottom: 1px solid black;
+    font-size: 1.4rem;
+    height: 5rem;
+    margin-bottom: 0.5rem;
+  }
+  .checkbox{
+    margin: 0 auto;
+  }
+  tr{
+    height: 1rem;
+    font-size: 1.4rem;
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+  }
+    
+  td {
+    text-align: center;
+  }
+  .table--head{
+    display: flex;
+    justify-content: space-evenly;
+  }

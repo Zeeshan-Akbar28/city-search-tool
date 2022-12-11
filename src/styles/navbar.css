@@ -1,0 +1,12 @@
+.nav--container{
+    max-width: 130rem;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.nav--container h2{
+    font-size: 2.4rem;
+    font-weight: bold;
+}

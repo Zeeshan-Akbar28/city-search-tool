@@ -1,0 +1,31 @@
+.input--container{
+    grid-column: 2/3;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+    border: 1 px solid red;
+}
+.input--container h4{
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+.input--search{
+    display: flex;
+    gap: 1rem;
+}
+.input--search input{
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    font-size: 1.4rem;
+}
+.input--search button {
+    color: black;
+    background-color: #FFDB43;
+    border: none;
+    font-size: 1.4rem;
+    padding: 1rem 3rem;
+    border-radius: 0.5rem;
+
+}
